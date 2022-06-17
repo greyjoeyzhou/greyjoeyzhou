@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <!--
 **greyjoeyzhou/greyjoeyzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Hang ZHOU's github stats](https://github-readme-stats.vercel.app/api?username=greyjoeyzhou&show_icons=true)
