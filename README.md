@@ -19,20 +19,14 @@ Here are some ideas to get you started:
 
 - 😄 My name is Hang ZHOU (he/him). <!--, you may find me in and . -->
 - 🔭 I am currently working as a Applied Scientist for AI in Earth Observation in PAII Inc. .
-- 🌱 I was originally trained as a remote sensing specialist, a glaciologist, and an earth system modeller in Peking University, Chinese Academy of Sciences, and University of Idaho.
+- 🌱 I was originally trained as a remote sensing scientist, a glaciologist, and an earth system modeller in Peking University, Chinese Academy of Sciences, and University of Idaho.
 
-
-<!--
-
-later
-## 🔭 I'm currently ...
+## I'm currently ...
 
 - building remote sensing and geospatial data platform
 - developing deep learning and statistical models for remote sensing data correction and fusion
 - designing and training deep learning and machine learning models for deriving market signals from remote sensing and geospatial data
-
-
--->
+- learning new fun stuff like NeRF, Rust, etc.
 
 <!--
 open when I have some public contribution
