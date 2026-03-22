@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 ## I'm currently ...
 
 - play with AI agents!
-- learn new fun stuff
+- learning AI & LLM
+- having fun
 
 ## I have worked on 
 
