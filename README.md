@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## I'm currently ...
 
-- building data foundations for web3
+- play with AI agents!
 - learn new fun stuff
 
 ## I have worked on 
